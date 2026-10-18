@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local machine files
+.DS_Store
+.vscode/
+
+# Large local datasets exceed GitHub's regular Git file size limit
+RawData/archive.zip
+RawData/vehicle_data.csv
